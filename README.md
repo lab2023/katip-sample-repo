@@ -1,6 +1,6 @@
 katip-sample-repo
 =================
 
-Sample content
+##Sample content
 
-**Version**: 0.1.0
+**Version**: _0.2.0_
