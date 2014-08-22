@@ -3,4 +3,4 @@ katip-sample-repo
 
 Sample content
 
-**Version**: None
+**Version**: 0.1.0
