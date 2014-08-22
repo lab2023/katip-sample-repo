@@ -3,4 +3,4 @@ katip-sample-repo
 
 ##Sample content
 
-**Version**: _0.1.0_
+**Version**: _0.2.0_
