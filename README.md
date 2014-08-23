@@ -5,4 +5,4 @@ katip-sample-repo
 
 **Version**: _0.4.0_
 
-Lorem ipsum dolot sit amet
+Lorem ipsum dolot sit amet, consectetur adipisicing elit
