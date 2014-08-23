@@ -3,6 +3,6 @@ katip-sample-repo
 
 ##Sample content
 
-**Version**: _0.3.0_
+**Version**: _0.4.0_
 
-Lorem ipsum
+Lorem ipsum dolot sit amet
